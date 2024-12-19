@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1734422224168",
+    "clientName": "Client-6",
+    "amount": "200",
+    "dueDate": "2024-12-28",
+    "status": "Unpaid"
+  },
+  {
+    "id": "1734423227990",
+    "clientName": "Client 7",
+    "amount": 200,
+    "dueDate": "2024-12-21",
+    "status": "Paid"
+  },
+  {
+    "id": "1734423510776",
+    "clientName": "Client-8",
+    "amount": "200",
+    "dueDate": "2024-12-31",
+    "status": "Unpaid"
+  },
+  {
+    "id": "1734423572519",
+    "clientName": "Client-9",
+    "amount": "200",
+    "dueDate": "2024-12-31",
+    "status": "Paid"
+  },
+  {
+    "id": "1734586999703",
+    "clientName": "Client 1",
+    "amount": "200",
+    "dueDate": "2024-12-27",
+    "status": "Paid"
+  }
+]
